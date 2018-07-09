@@ -4,10 +4,15 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p> Me, just me, want to be simple and happy </p>
+<h1> Me, just me, want to be simple and happy </h1>
 
 
-<h1>Official Me</h1>
+<h2>Official Me</h2>
+
+
+<h2>Academic</h2>
+
+
 <h2>Skills</h2>
 
 <p>I love analyzing data, managing process improvement projects and learning new things. I am Founder/CEO of a data analytics consultancy called 3PM Coffee Break. I've lived all over Southern California in the last 15 years now, loved every minute of it and currently make my home in the greater San Diego area, with my husband.</p>
