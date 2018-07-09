@@ -12,9 +12,16 @@ permalink: instagram-likes
 
 I recently had reason to want to look up some of my past likes on my Instagram account. Turns out, it's not that easy.
 
+test in text <p align="center"><img src="https://yyyxxxzzz.github.io/assets/images/posts/instagram-likes/Support_Process.pdf" /></p>
+
+
+test hyper link [pdf](https://yyyxxxzzz.github.io/assets/images/posts/instagram-likes/Support_Process.pdf) 
+
+dangdangdang dang let's have a look at the pdf
+
 With Instagram's [rebranding](http://blog.instagram.com/post/144198429587/160511-a-new-look) earlier this year, they also took the opportunity to disable several handy features in their API, one of them being the ability to export IG posts you like to a different platform. Previously, all you had to do was hook up an IFTTT (if-this-then-that) account to your Instagram and, say, Evernote, to have all your likes automagically saved to your Evernote. Now, no more.
 
-I can sort of see the thinking behind that - if I like someone else's post, I don't own that image so I don't necessarily have the rights to "download" it. However, there are legitimate use cases for this including if I wanted an automated way to bookmark these images for later reference. 
+I can sort of see the thinking behind that - if I like someone else's post, I don't own that image so I don't necessarily have the rights to "download" it. However, there are legitimate use cases for this including if I wanted an automated way to bookmark these images for later reference.
 
 The method I've outlined below is still not fully automated, but it is better than individually bookmarking each liked post.
 
