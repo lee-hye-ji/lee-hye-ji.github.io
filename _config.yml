@@ -63,6 +63,13 @@ projects: true
 about: true
 blog: true
 
+
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: https://google.com/?q=my+resume
+
 # do you want to show the "read time" of the posts?
 read-time: true
 
