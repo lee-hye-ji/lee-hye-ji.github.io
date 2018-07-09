@@ -4,6 +4,12 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<p> Me, just me, want to be simple and happy </p>
+
+
+<h1>Official Me</h1>
+<h2>Skills</h2>
+
 <p>I love analyzing data, managing process improvement projects and learning new things. I am Founder/CEO of a data analytics consultancy called 3PM Coffee Break. I've lived all over Southern California in the last 15 years now, loved every minute of it and currently make my home in the greater San Diego area, with my husband.</p>
 
 <p>I grew up in India, in a metropolitan town called <a href="https://en.wikipedia.org/wiki/Vadodara" target="_blank">Baroda</a>. Baroda is best known for its beautiful <a href="https://upload.wikimedia.org/wikipedia/commons/6/67/Baroda_Lvp.JPG" target="_blank">royal</a> <a href="https://en.wikipedia.org/wiki/Laxmi_Vilas_Palace,_Vadodara" target="_blank">palace</a>, an <a href="https://en.wikipedia.org/wiki/Maharaja_Sayajirao_University_of_Baroda" target="_blank">awesome university</a> and a small-city feel with big city values.</p>
@@ -34,5 +40,5 @@ layout: page
 <ul>
 	<li><a href="http://soc.sh/n2IqhVcpTf" target="_blank">Data story on Shorthand: How many Screens do you need for a Blockbuster movie?</a></li>
 	<li><a href="https://github.com/aannasw/movies-capstone/blob/master/Capstone%20Project.pdf" target="_blank">Springboard Capstone Project: Analysis of Movies</a></li>
-	<li><a href="http://public.tableau.com/profile/arti#!/" target="_blank">Tableau Public profile</a></li>	
+	<li><a href="http://public.tableau.com/profile/arti#!/" target="_blank">Tableau Public profile</a></li>
 </ul>

@@ -27,23 +27,23 @@ disqus: artiannaswamy
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: aannasw
+# twitter: aannasw
 # google: mygoogle
 # instagram: myinstagram
-pinterest: annasw
-linkedin: artiannaswamy
+pinterest: zhouyx1122
+linkedin: yunxiuzhou
 # youtube: myyoutube
 # spotify: myspotify
-github: aannasw
+github: yyyxxxzzz
 # medium: medium
-email: hello@artiannaswamy.com
+email: Zhouyx1122@gmail.com
 
 authors:
     artiannaswamy:
         name: Arti Annaswamy
         bio: Data analytics, process improvement, project management, coffee drinking
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/profile2.jpg
         twitter: aannasw
 
 
