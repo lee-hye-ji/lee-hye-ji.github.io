@@ -21,3 +21,14 @@ permalink: me-and-my-family
 我对不起她，然而我还要冲她发脾气。
 
 我的母亲
+
+***
+
+毛姆
+
+[markdown](http://xianbai.me/learn-md/article/syntax/horizontal-rule.html)
+
+---
+
+ <div class="breaker"></div><a id="newtech"></a>
+ 
