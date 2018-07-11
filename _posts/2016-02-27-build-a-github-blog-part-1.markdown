@@ -12,7 +12,7 @@ permalink: build-a-github-blog-part-1
 
 ## How it all started
 
-I've owned my personal domain name for a while now, but never got around to putting anything up. As someone previously in the corporate finance world, I didn't have any particular information or portfolio pieces I needed to put up on a personal site that LinkedIn couldn't handle. 
+I've owned my personal domain name for a while now, but never got around to putting anything up. As someone previously in the corporate finance world, I didn't have any particular information or portfolio pieces I needed to put up on a personal site that LinkedIn couldn't handle.
 
 Once I started to feel the need for a blog, $50-$100/year in hosting fees just felt like too much for a blog that I planned on updating occasionally and only when I had something substantial to document online.
 
@@ -22,7 +22,7 @@ Problem solved!
 
 *Or so I thought.*
 
-It's when I started to really wade deep into setting up a Github personal site and blog that I realized it can be fairly intimidating to a non-programmer. I know just enough HTML and CSS to be dangerous and break things, which makes me the kind of adventurer that will start full throttle with a project like this, and get pretty far down a path before realizing I need to start over (several times). 
+It's when I started to really wade deep into setting up a Github personal site and blog that I realized it can be fairly intimidating to a non-programmer. I know just enough HTML and CSS to be dangerous and break things, which makes me the kind of adventurer that will start full throttle with a project like this, and get pretty far down a path before realizing I need to start over (several times).
 
 At this point, I've got this at a stable enough state that I can call it a minor success. Some of you may want the journey with the dead ends because you can learn a lot from those - I know I learned quite a bit from all the paths that didn't work out.
 
@@ -44,25 +44,25 @@ So, without further ado, here's the process that's got me this far.
 
 <div class="breaker"></div> <a id="starting-point"></a>
 
-## Everyone needs a starting point 
+## Everyone needs a starting point
 
 ... and for that, I thank Joshua Lande for his excellent post <http://joshualande.com/jekyll-github-pages-poole/> that gave me a general map to get started with.
 
 <div class="breaker"></div> <a id="buying-domain"></a>
 
-## 1. Buying a domain 
+## 1. Buying a domain
 
-I had bought my domain artiannaswamy.com several years ago on GoDaddy, and every time I renewed it, I re-upped for the longest possible time, so that part was set. 
+I had bought my domain artiannaswamy.com several years ago on GoDaddy, and every time I renewed it, I re-upped for the longest possible time, so that part was set.
 
 There are a lot of articles recommending good domain name registrars and telling you what to watch out for - everything ranging from customer service, transfer fees, selling your info to shady marketers and so on. I'd read these and do your research, especially if you find a new registrar with a great price on the domain you want, but no reviews to go on.
 
-GoDaddy is the better known brand name, but another company I've seen recommended quite often is **NameCheap**. 
+GoDaddy is the better known brand name, but another company I've seen recommended quite often is **NameCheap**.
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; a. Private Registration
 
-With most of the registrars out there, you pay one price per year for registering the domain, and another extra charge per year to protect your privacy, so they don't put your name and address up publicly as the owner of the domain. 
+With most of the registrars out there, you pay one price per year for registering the domain, and another extra charge per year to protect your privacy, so they don't put your name and address up publicly as the owner of the domain.
 
-I always tack on the extra private registration charge, and GoDaddy and most other bigger companies often have good coupons and deals if you're ready to commit to your domain for a long time. 
+I always tack on the extra private registration charge, and GoDaddy and most other bigger companies often have good coupons and deals if you're ready to commit to your domain for a long time.
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; b. Google and Amazon are in this business too
 
@@ -90,11 +90,11 @@ Let me back up a little.
 
 So, you need to do the following to get set up on GitHub:
 
-- Create a free GitHub account. 
+- Create a free GitHub account.
 - Pick a username you can tell your grandmother without making her blush. Also pick a short one - this doesn't need to look like your resume name either. Mine is aannasw, for example.
 - Download and install a copy of GitHub desktop, especially if you don't want to be using git code.
 
-Now here's a couple of reasons why I had to start over. 
+Now here's a couple of reasons why I had to start over.
 
 **Lessons Learned - Forking a Repo**
 
@@ -136,7 +136,7 @@ The theme I ultimately went with is the [Indigo theme](http://koppl.in/indigo) b
 <div class="center"><img src="https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/assets/images/posts/build-a-blog/downloadzip.png" /></div>
 
 - Extract the contents and copy everything over to your empty username.github.io repository
-- Launch your GitHub Desktop, and you will see that the new repository you created now shows several files in a list, with the tab titled '# Uncommitted Changes'. 
+- Launch your GitHub Desktop, and you will see that the new repository you created now shows several files in a list, with the tab titled '# Uncommitted Changes'.
 
 <div class="center"><img src="https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/assets/images/posts/build-a-blog/uncommittedchanges.png" /></div>
 
@@ -150,7 +150,7 @@ The theme I ultimately went with is the [Indigo theme](http://koppl.in/indigo) b
 
 #### <span class="evidence">Bonus section for Option 1</span>
 
-If you have the patience for some git code, this will help set up a back end connection between your repository and your source theme repository, so that any changes made by the theme developer will show up in your GitHub Desktop as a clickable button that says 'Update from sourceuser/sourcerepo'. 
+If you have the patience for some git code, this will help set up a back end connection between your repository and your source theme repository, so that any changes made by the theme developer will show up in your GitHub Desktop as a clickable button that says 'Update from sourceuser/sourcerepo'.
 
 **Note** - You may not always want to make every change, especially if it overrides customizations you've made, but it helps when the theme developer adds new features or fixes bugs.
 
@@ -206,13 +206,13 @@ Already up-to-date.
 
 <div class="breaker"></div> <a id="dns-nameservers"></a>
 
-## 3. Redirecting your domain (DNS Nameservers) to point to GitHub 
+## 3. Redirecting your domain (DNS Nameservers) to point to GitHub
 
 I dusted off my logins to GoDaddy, and after following David Ensinger's post recommended in the article above, [Setting the DNS for GitHub Pages on Namecheap](http://davidensinger.com/2013/03/setting-the-dns-for-github-pages-on-namecheap/) and Andrew Sturges' post on [Configuring a Godaddy domain name with github pages](http://andrewsturges.com/blog/jekyll/tutorial/2014/11/06/github-and-godaddy.html), I had successfully redirected my domain to point to GitHub.
 
 <div class="breaker"></div> <a id="cname"></a>
 
-## 4. Creating a CNAME file 
+## 4. Creating a CNAME file
 
 So, if you finished the step above to redirect your domain, you must have created or updated the 'CNAME' of your domain. GitHub doesn't know what your domain is, so you now have to create a file in your new repository to connect it up from this end.
 
@@ -237,4 +237,3 @@ Stay tuned for how you can modify content, add new pages, set custom post URLs, 
 Here's Part 2 of this post <http://artiannaswamy.com/build-a-github-blog-part-2>
 
 <div class="breaker"></div>
-

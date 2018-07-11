@@ -26,12 +26,8 @@ I recently came to learn of this article, [Slow Assimilation Works Best](http://
 
 This works out great in practice too.
 
-Whether it's a new process, a technology, a platform, an app - I've seen this process work out well every single time, and with lasting results. And, as noted in the article, approach#2 fails every single time. 
+Whether it's a new process, a technology, a platform, an app - I've seen this process work out well every single time, and with lasting results. And, as noted in the article, approach#2 fails every single time.
 
 Especially within organizations, the **Big Bang** approach, while exciting and satisfying, also necessarily means that several of the users this process was launched at were previously unfamiliar with it, and likely had no input in it, nor any concrete idea of what it solves and what it doesn't solve (since no process or tool solves everything). Even with prolific post-launch communication, users will only remember that they got a new process or tool without context, and are now required to use it whether or not they want to.
 
 The **Soft Launch** approach misses the benefit of a flashy introduction, but in every case, is satisfying to the developers since you get immediate, quality feedback on what could be improved, from an audience interested in providing feedback and qualified to do so, with the final product benefiting from this shorter feedback cycle. The alpha testers get the benefit of being the first to influence the product or process, and feel involved in the ultimate result, which as [psychology](http://cqtesting.com/papers/JOB%202004%20Van%20Dyne%20Pierce%20Psychological%20Ownership.pdf) [tells us](https://hbr.org/2015/12/how-to-make-employees-feel-like-they-own-their-work), can be a powerful motivator for buy-in.
-
-
-
-

@@ -22,7 +22,7 @@ jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.gi
 
 ---
 
-<!-- <div class="breaker"></div><a id="newtech"></a> -->
+ <div class="breaker"></div><a id="newtech"></a>
 <h2 class="title">Reading technology</h2>
 
 A few items that rocked my world with respect to reading:
