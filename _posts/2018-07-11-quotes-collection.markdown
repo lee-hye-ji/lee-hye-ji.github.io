@@ -13,6 +13,20 @@ jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.gi
 从大处着眼，小处落手。
 毛姆，给亲年朋友的信
 
+
+<blockquote class="blockquote-center">
+::before
+<p>blah blah blah</p>
+::after
+</blockquote>
+
+
+
+
+> Quote here.
+>
+> -- <cite>Benjamin Franklin</cite>
+
 希望，本是无所谓有，无所谓无的。就好像地上的路。地上本没有路，走的人多了，也就成了路。
 鲁迅《故乡》
 
