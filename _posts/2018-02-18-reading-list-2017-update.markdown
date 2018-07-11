@@ -22,14 +22,14 @@ jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.gi
 
 ---
 
-<div class="breaker"></div><a id="newtech"></a>
+<!-- <div class="breaker"></div><a id="newtech"></a> -->
 <h2 class="title">Reading technology</h2>
 
 A few items that rocked my world with respect to reading:
 
 <h3>Borrowing eBooks from my local libraries</h3>
 
-I've been a Kindle user for about 9 years now. Sometime in the past 5 years, I discovered that it was possible to borrow eBooks from your local library, but the user experience left a lot to be desired. The selection of eBooks available for borrowing via Overdrive was not that impressive, and the experience of downloading a DRM-protected ePub or Kindle book to your computer, then copying it over to your Kindle was clunky and not very user-friendly. 
+I've been a Kindle user for about 9 years now. Sometime in the past 5 years, I discovered that it was possible to borrow eBooks from your local library, but the user experience left a lot to be desired. The selection of eBooks available for borrowing via Overdrive was not that impressive, and the experience of downloading a DRM-protected ePub or Kindle book to your computer, then copying it over to your Kindle was clunky and not very user-friendly.
 
 How far we've come today...
 
@@ -41,9 +41,9 @@ The same Overdrive system that lets you borrow library books has also launched a
 <h3>Fire HD 10</h3>
 Amazon has had this on sale on and off for $99 + taxes - if you find such a deal, get it! With the fairly easy to execute <a href="https://boingboing.net/2017/10/11/quickly-add-the-google-play-st.html" target="_blank">Google Play sideload trick</a>, you not only have the wealth of Amazon apps but also the vast world of Android apps on Google Play, including Netflix, Google Drive/Calendar/Mail, Microsoft's Office 365 apps etc.
 
-Fire HD also comes with a 6-month complementary membership to Washington Post, and a $5/year subscription to Wired magazine. 
+Fire HD also comes with a 6-month complementary membership to Washington Post, and a $5/year subscription to Wired magazine.
 
-The experience of reading on the old gen Kindle was amazing - since the basic "paperwhite" Kindles aren't backlit, there is no strain on the eyes from the tablet. The Fire HD 10 is backlit, but it has multiple options on making the screen darker (white-text-on-black background) on dimming the tablet for 'night mode' 
+The experience of reading on the old gen Kindle was amazing - since the basic "paperwhite" Kindles aren't backlit, there is no strain on the eyes from the tablet. The Fire HD 10 is backlit, but it has multiple options on making the screen darker (white-text-on-black background) on dimming the tablet for 'night mode'
 
 I was specifically looking for a tablet that could do a decent job of letting me doodle / draw wireframes/mockups/brainstorm charts without me having to invest $700-$900 for a complete iPad Pro + Pencil ecosystem, and I'm happy to report that Fire 10 HD by itself is enough for some basic level of doodling.
 
@@ -59,11 +59,11 @@ A couple of years ago, Goodreads helpfully started scanning my lists of 'Want to
 <div class="breaker"></div><a id="read"></a>
 <h2 class="title">Books Read in 2017</h2>
 
-<h3>1. Influence: The Psychology of Persuasion by Robert B. Cialdini (1984)</h3>	
+<h3>1. Influence: The Psychology of Persuasion by Robert B. Cialdini (1984)</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B002BD2UUC&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_0l5IAbT25P3CY" ></iframe>
-I loved this book! The concepts of persuasion outlined in this book are timeless, even if in some cases, the examples aren't - case in point, I don't know of anyone who refers to "confidence-men" anymore. Although the use cases are sometimes stuck in the 80s, the author's underlying message is powerful and worth absorbing. 
+I loved this book! The concepts of persuasion outlined in this book are timeless, even if in some cases, the examples aren't - case in point, I don't know of anyone who refers to "confidence-men" anymore. Although the use cases are sometimes stuck in the 80s, the author's underlying message is powerful and worth absorbing.
 
-<h3>2. Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time by Dava Sobel (2010)</h3>	
+<h3>2. Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time by Dava Sobel (2010)</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B003WUYE66&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_6l5IAb2944W3D" ></iframe>
 This book hit a lot of relevant notes for me - travel, entrepreneurship, innovation, challenges of communicating new technology. What I didn't realize, and now have a new appreciation for, is the connection between accurate timekeeping and navigating the seas.
 
@@ -73,19 +73,19 @@ Dystopian and disturbing. The writing was great, the book was a page-turner and 
 
 <h3>4. To Pixar and Beyond: My Unlikely Journey with Steve Jobs to Make Entertainment History by Lawrence Levy</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01912OSA0&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_HqCIAbBQ996HN" ></iframe>
-Pixar recently released Coco, which I absolutely loved and recommend as an example of what authentic ethnic storytelling should look like. News also came out regarding a pattern of alleged misconduct by John Lasseter, the Chief Creative Officer at Pixar. 'To Pixar and Beyond' serves as an interesting point-in-time capture of Lawrence Levy's recollections of his time at Pixar - starting just before Toy Story was released, and ending around the time Disney fully acquired Pixar and captures the passion and work culture and loyalty to Pixar that could arguably result in both of the above pieces of news. 
+Pixar recently released Coco, which I absolutely loved and recommend as an example of what authentic ethnic storytelling should look like. News also came out regarding a pattern of alleged misconduct by John Lasseter, the Chief Creative Officer at Pixar. 'To Pixar and Beyond' serves as an interesting point-in-time capture of Lawrence Levy's recollections of his time at Pixar - starting just before Toy Story was released, and ending around the time Disney fully acquired Pixar and captures the passion and work culture and loyalty to Pixar that could arguably result in both of the above pieces of news.
 
 <h3>5. On Writing: A Memoir Of the Craft by Stephen King</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B000FC0SIM&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_NqCIAbZJB43DB" ></iframe>
 I hope to read this book at least once every few years. Stephen King writes about his writing process, his advice to new writers, and about his writing career - drugs, alcohol and all. This isn't a textbook about writing, but neither is it just a memoir. The advice and the memories all weave together seamlessly and it's more layered than it appears at first read. I don't know that I came away with very concrete writing advice beyond 'don't use adverbs', but I was certainly inspired by King's no-excuse attitude towards writing.
 
-<h3>6. Harry Potter and the Cursed Child by J.K.Rowling</h3> 
+<h3>6. Harry Potter and the Cursed Child by J.K.Rowling</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B073P962D9&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_WdCIAb0BCF234" ></iframe>
 Having re-read the original Harry Potter books multiple times, I was a little hesitant to read this since it seemed too different to be a continuation of the original story - i.e. it's a play, it's not really about Harry and friends and it's set in a different time. But after reading it, I can reassure you that this certainly inhabits the world of Harry Potter, and it was certainly lovely to hang out with the characters, both new and old, one more time. I wasn't wild about the play format and the story did seem to move quicker because of the requirement for the characters to be doing / saying something (they can't just think, that would be quite boring on stage). At the same time, I was quite amazed at the amount of magical activity that happens in the book as I couldn't envision how that would be performed on stage. Good book and worth a read for the Harry Potter fan.
 
 <h3>7. The Graveyard Book by Neil Gaiman</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0011UJM48&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_UrCIAbR39C7E5" ></iframe>
-Loved this story! At the recommendation of a friend, I had read American Gods a while ago and was impressed by the scale and genius of it but didn't really love the characters or the story. This felt exactly the opposite. It starts as a small, intimate story about a child in a graveyard and becomes so much more eventually. The characters stay with you, the story is heartwarming and grand and heroic. I first heard of this book on Tim Ferriss's podcast - he <a href="https://twitter.com/tferriss/status/349934486579978241" target="_blank">recommends the audiobook version</a> narrated by Gaiman himself and highlights this book as a starting point for those who usually only read non-fiction and are looking to dip their toes in the water with fiction.  
+Loved this story! At the recommendation of a friend, I had read American Gods a while ago and was impressed by the scale and genius of it but didn't really love the characters or the story. This felt exactly the opposite. It starts as a small, intimate story about a child in a graveyard and becomes so much more eventually. The characters stay with you, the story is heartwarming and grand and heroic. I first heard of this book on Tim Ferriss's podcast - he <a href="https://twitter.com/tferriss/status/349934486579978241" target="_blank">recommends the audiobook version</a> narrated by Gaiman himself and highlights this book as a starting point for those who usually only read non-fiction and are looking to dip their toes in the water with fiction.
 
 ---
 <div class="breaker"></div><a id="reading-list"></a>
