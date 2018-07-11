@@ -18,11 +18,13 @@ jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.gi
 </cite>
 
 >希望，本是无所谓有，无所谓无的。就好像地上的路。地上本没有路，走的人多了，也就成了路。
+>
 >---<cite>鲁迅《故乡》</cite>
 
 >何必拿别人的过错惩罚自己。
 
 >尽量自律吧，当人生还在自己的手中的时候。当自己还能够控制的时候。以免人生out of control.
+> 
 >---<cite>根娣，2018年七月，油车水库</cite>
 
 
