@@ -48,4 +48,5 @@ layout: page
 	<li><a href="http://public.tableau.com/profile/arti#!/" target="_blank">Tableau Public profile</a></li>
 </ul>
 
-You can find my latest Resume [here](https://yyyxxxzzz.github.io/assets/images/about/Zhou_Grad._4.pdf)
+
+You can find my latest Resume [here](https://yyyxxxzzz.github.io/assets/images/about/Zhou_Grad._4.pdf), 最新[中文简历](https://yyyxxxzzz.github.io/assets/images/about/Zhou_Grad._4中.pdf).
