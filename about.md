@@ -47,6 +47,12 @@ layout: page
     <li><a href="yyyxxxzzz.github.io/assets/images/about/thesis.2.pdf">Y. ZHOU(2017), Dynamic Cardinality Constrained Portfolio Optimization with fixed and linear Transaction Costs, The Chinese University of Hong Kong, Faculty of Engineering, Final Year Project Theses and Dissertations Collection</a></li>
 </ul>
 
+<h2>Analyses and Reports</h2>
+
+<ul>
+    <li><a href="">Fuel Hedging in Asian Airlines</a></li>
+</ul>
+
 
 <h2>Project Samples</h2>
 
