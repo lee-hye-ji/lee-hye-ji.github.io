@@ -43,15 +43,17 @@ layout: page
 <h2>Publications</h2>
 
 <ul>
-    <li>Y. ZHOU(2016), Cardinality Constrained Portfolio Selection, The Chinese University of Hong Kong, Faculty of Engineering, Final Year Project Theses and Dissertations Collection <a href="yyyxxxzzz.github.io/assets/images/about/thesis.pdf">[paper]</a>
-        <a>[slides]</a></li>
-    <li><a href="yyyxxxzzz.github.io/assets/images/about/thesis.2.pdf">Y. ZHOU(2017), Dynamic Cardinality Constrained Portfolio Optimization with fixed and linear Transaction Costs, The Chinese University of Hong Kong, Faculty of Engineering, Final Year Project Theses and Dissertations Collection</a></li>
+    <li>Y. ZHOU(2016), Cardinality Constrained Portfolio Selection, The Chinese University of Hong Kong, Faculty of Engineering, Final Year Project Theses and Dissertations Collection <a href="https://yyyxxxzzz.github.io/assets/images/about/thesis.pdf">[paper]</a>
+        <a href="https://yyyxxxzzz.github.io/assets/images/about/FYP_presen1.pdf">[slides]</a></li>
+    <li>Y. ZHOU(2017), Dynamic Cardinality Constrained Portfolio Optimization with fixed and linear Transaction Costs, The Chinese University of Hong Kong, Faculty of Engineering, Final Year Project Theses and Dissertations Collection<a href="https://yyyxxxzzz.github.io/assets/images/about/thesis-2.pdf">[paper]</a><a href="https://yyyxxxzzz.github.io/assets/images/about/FYP_prez_2.pdf">[slides]</a></li>
+    <li>Fuel Hedging in Asian Airlines<a href="https://yyyxxxzzz.github.io/assets/images/about/Oil_Hedging_Final.pdf">[Report]</a></li>
+    
 </ul>
 
 <h2>Analyses and Reports</h2>
 
 <ul>
-    <li><a href="">Fuel Hedging in Asian Airlines</a></li>
+    
 </ul>
 
 
