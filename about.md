@@ -43,7 +43,7 @@ layout: page
 <h2>Publications</h2>
 
 <ul>
-    <li>Y. ZHOU(2016), Cardinality Constrained Portfolio Selection, The Chinese University of Hong Kong, Faculty of Engineering, Final Year Project Theses and Dissertations Collection <a href="yyyxxxzzz.github.io/assets/images/about/thesis.pdf">[pdf]	</a></li>
+    <li>Y. ZHOU(2016),  _Cardinality Constrained Portfolio Selection_ , The Chinese University of Hong Kong, Faculty of Engineering, Final Year Project Theses and Dissertations Collection <a href="yyyxxxzzz.github.io/assets/images/about/thesis.pdf">[pdf]	</a></li>
     <li><a href="yyyxxxzzz.github.io/assets/images/about/thesis.2.pdf">Y. ZHOU(2017), Dynamic Cardinality Constrained Portfolio Optimization with fixed and linear Transaction Costs, The Chinese University of Hong Kong, Faculty of Engineering, Final Year Project Theses and Dissertations Collection</a></li>
 </ul>
 
