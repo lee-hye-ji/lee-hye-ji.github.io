@@ -40,6 +40,13 @@ layout: page
 	<li>recording training videos, exploring best practices in doing voiceovers, audio recording, video annotation</li>
 </ul>
 
+<h2>Publications</h2>
+
+<ul>
+    <li><a href="">1.	Y. ZHOU(2016), Cardinality Constrained Portfolio Selection, The Chinese University of Hong Kong, Faculty of Engineering, Final Year Project Theses and Dissertations Collection</a></li>
+</ul>
+
+
 <h2>Project Samples</h2>
 
 <ul>
