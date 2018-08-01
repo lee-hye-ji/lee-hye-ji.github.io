@@ -11,6 +11,17 @@ jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.gi
 ---
 
 
+<blockquote>
+
+<p class="quotation">
+  No doubt one may quote history to support any cause, as the devil quotes scripture.</p>
+<footer>— Learned Hand</footer>
+</blockquote>
+
+
+
+
+
   <blockquote class="blockquote text-center">
     <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
 <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
