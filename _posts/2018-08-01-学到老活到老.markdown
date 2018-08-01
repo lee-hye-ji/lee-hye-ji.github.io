@@ -28,13 +28,17 @@ Sigmund freud
 
 我和我的小伙伴们都笑了。:smile:
 
-<div align="center"><img width="65" height="75" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/></div>
+<!-- <div align="center"><img width="65" height="75" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/></div>
+
+ -->
 
 
 
-    If you want to mark something as code, indent it by 4 spaces.
 
-    <p>This has been indented 4 spaces.</p>
+
+<img src="https://mmistakes.github.io/minimal-mistakes/assets/images/image-alignment-150x150.jpg" alt="image-left" class="align-left">
+ The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong>.
+
 
 
 的确，我变得不那么自信。在与别人接触时，我不是万般纠结不适，便是满不在乎，若无他人。我不直视他人的眼睛，说不清是不想，还是不敢。唯一直视的时候，是恨，或是，像那粗鲁的原始野兽，吓唬。
