@@ -15,16 +15,33 @@ jemoji: '<img class="emoji" title=":memo:" alt=":memo:" src="https://assets.gith
 Sigmund freud
 <p align="center"><img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTIwNjA4NjMzODE2OTA5MzI0/sigmund-freud-9302400-1-402.jpg" height="200" width="200" align="left"/></p>
 
-<p>晚年因cigar而死的伟大心理学家。
-提出“free associate”
+<p >晚年因cigar而死的伟大心理学家。
+&nbsp;&nbsp;&nbsp;&nbsp; 提出“free associate”
 => 心得：人还是要多多说话，多多交流才好啊。</p>
+
+
+<p>If you want to mark something as code, indent it by 4 spaces.</p>
+
+    &lt;p&gt;This has been indented 4 spaces.&lt;/p&gt;
+
+
 
 我和我的小伙伴们都笑了。:smile:
 
 <div align="center"><img width="65" height="75" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/></div>
 
 
+
+    If you want to mark something as code, indent it by 4 spaces.
+
+    <p>This has been indented 4 spaces.</p>
+
+
 的确，我变得不那么自信。在与别人接触时，我不是万般纠结不适，便是满不在乎，若无他人。我不直视他人的眼睛，说不清是不想，还是不敢。唯一直视的时候，是恨，或是，像那粗鲁的原始野兽，吓唬。
+
+
+<div class="pull-left"><img width=cm dpi:150 src="http://www.scisan.com/wp-content/uploads/2017/07/vmall.jpg"></div>
+最近华为商城请了胡歌代言，销量也是直线上升啊
 
 # TED talk
 [Brian Little](https://www.youtube.com/watch?v=qYvXk_bqlBk)
