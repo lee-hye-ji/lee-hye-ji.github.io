@@ -15,9 +15,10 @@ jemoji: '<img class="emoji" title=":memo:" alt=":memo:" src="https://assets.gith
 Sigmund freud
 <p align="center"><img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTIwNjA4NjMzODE2OTA5MzI0/sigmund-freud-9302400-1-402.jpg" height="200" width="200" align="left"/></p>
 
-晚年因cigar而死的伟大心理学家。
+<p>晚年因cigar而死的伟大心理学家。
 提出“free associate”
-=> 心得：人还是要多多说话，多多交流才好啊。
+=> 心得：人还是要多多说话，多多交流才好啊。</p>
+
 
 的确，我变得不那么自信。在与别人接触时，我不是万般纠结不适，便是满不在乎，若无他人。我不直视他人的眼睛，说不清是不想，还是不敢。唯一直视的时候，是恨，或是，像那粗鲁的原始野兽，吓唬。
 
@@ -55,48 +56,18 @@ Sigmund freud
 
 # 行为准则
 
-好的  |  不好的
---|--
-<ul>
-    <li>吃饭只吃七分饱</li>
-    <li>真诚</li></ul>  |  <ul><li>~~贪婪~~</li>
+###好的
+<ul><li>吃饭只吃七分饱</li>
+    <li>真诚</li></ul>
+
+###   不好的
+<ul><li> ~~贪婪~~ </li>
     <li>~~计较小气小心眼~~</li>
     <li>看不起别人</li>
     <li>做事随便</li>
     <li>自以为是，不让别人把话说完</li>
-</ul>
+    </ul>
 
-
-
-| Tables                                |      Are      |                  Cool |
-| ------------------------------------- |:-------------:| ---------------------:|
-| col 3 is                              | right-aligned |                 $1600 |
-| col 2 is                              |   centered    |                   $12 |
-| zebra stripes                         |   are neat    |                    $1 |
-| <ul><li>item1</li><li>item2</li></ul> | See the list  | from the first column |
-|                                       |               |                       |
-|                                       |               |                       |
-
-
-
-
-| Left-aligned | Center-aligned | Right-aligned |
-|:------------ |:--------------:| -------------:|
-| git status   |   git status   |    git status |
-| git diff     |    git diff    |      git diff |
-|              |                |               |
-|              |                |               |
-|              |                |               |
-
-
-
-| Tables   |      Are      |  Cool |
-| -------- |:-------------:| -----:|
-| col 1 is | left-aligned  | $1600 |
-| col 2 is |   centered    |   $12 |
-| col 3 is | right-aligned |    $1 |
-|          |               |       |
-|          |               |       |
 
 看啊，看着世上的人们。老人躺在病床
 
@@ -115,3 +86,18 @@ Accept it, enoy it, understand
 
 
 更多理解
+
+# Observation
+
+脸上有很多疙瘩。讨厌起来令人很讨厌。吃东西声音很响。细腻，干净。很多人愿意找他，很多朋友。
+
+# The Wisdom of Life
+叔本華《人生的智慧》佳句選錄
+
+跟努力开玩笑，努力就会对你不屑。阿拉伯谚语
+
+<blockquote>
+<p class="quotation">
+  跟努力开玩笑，努力就会对你不屑。p>
+<footer> --- 阿拉伯谚语</footer>
+</blockquote>
