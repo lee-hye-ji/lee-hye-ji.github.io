@@ -1183,7 +1183,7 @@ pre {
 
 /* ----------------------------------  arti-changes: -----------------------------------------*/
 
-.doodle { 
+.doodle {
 	margin-top: 35px;
 	text-align: center;
 }
@@ -1231,11 +1231,49 @@ pre {
 	vertical-align: top;
 }
 
-.services td, 
+.services td,
 .services th {
 	padding: 5px;
 }
 
 .center {
 	text-align: center;
+}
+
+.quotation{
+  font-size: 25px;
+  margin: 0 auto;
+  quotes: "\201C""\201D""\2018""\2019";
+  padding: 10px 20px;
+  line-height: 1.4;
+}
+
+.quotation:before {
+  content: open-quote;
+  display: inline;
+  height: 0;
+  line-height: 0;
+  left: -10px;
+  position: relative;
+  top: 30px;
+  color: #ccc;
+  font-size: 3em;
+}
+
+.quotation::after {
+  content: close-quote;
+  display: inline;
+  height: 0;
+  line-height: 0;
+  left: 10px;
+  position: relative;
+  top: 35px;
+  color: #ccc;
+  font-size: 3em;
+}
+footer{
+  margin:0;
+  text-align: right;
+  font-size: 1.3em;
+  font-style: italic;
 }
