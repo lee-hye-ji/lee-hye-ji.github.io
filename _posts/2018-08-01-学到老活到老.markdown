@@ -1,0 +1,76 @@
+---
+title: "学到老活到老"
+layout: post
+tag: courses
+date: "2018-08-01 13:07"
+img: indigo/indigo.png
+projects: true
+author: artiannaswamy
+summary: "终生学习"
+permalink: 学到老活到老
+jemoji: '<img class="emoji" title=":memo:" alt=":memo:" src="https://assets.github.com/images/icons/emoji/unicode/1f4dd.png" height="20" width="20" align="absmiddle">'
+---
+
+# Psychology
+Sigmund freud
+<p align="center"><img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTIwNjA4NjMzODE2OTA5MzI0/sigmund-freud-9302400-1-402.jpg" height="200" width="200" align="left"/></p>
+
+晚年因cigar而死的伟大心理学家。
+提出“free associate”
+=> 心得：人还是要多多说话，多多交流才好啊。
+
+的确，我变得不那么自信。在与别人接触时，我不是万般纠结不适，便是满不在乎，若无他人。我不直视他人的眼睛，说不清是不想，还是不敢。唯一直视的时候，是恨，或是，像那粗鲁的原始野兽，吓唬。
+
+# TED talk
+[Brian Little](https://www.youtube.com/watch?v=qYvXk_bqlBk)
+
+<blockquote>
+<p class="quotation">
+  What makes us love you?</p>
+<!-- <footer>— Learned Hand</footer> -->
+</blockquote>
+ 一个人被喜爱，被欢迎，并不是因为他的才干。更多的似乎是她的品格。
+
+  一个滔滔不绝满腹诗书却缺乏真诚的人，不会比没有才干却真诚倾听的人生活的更加如意幸福。
+
+  你，作为一个个人，什么是你变得独特？
+
+  你会唱歌，歌星多得是；你懂一点点文史哲，专家学者自是山外有山..。除了技能呢？你有小蛮腰，大长腿，更何况我没有，模特美女多得是，凭何令人情有独钟？你可爱吗？处身立命者何？
+  可见，外表，技能，金钱都是身外之物。
+  可爱的，应该是你的人，你的气息，你的一举一动，举手投足。独特的你。而不是剥离开的，单方面的你。
+
+  可以不美，可以不聪颖，可以不能干，然而不能不是你自己。
+
+  <blockquote>
+  <p class="quotation">
+    What is your core personal Project?</p>
+  <!-- <footer>— Learned Hand</footer> -->
+  </blockquote>
+
+这辈子，你做些什么？
+
+
+
+# 行为准则
+| 好的   |      不好的      |
+|:-------------| :---------------------|
+| <ul><li>吃饭只吃七分饱</li><li>真诚</li></ul> | <ul><li>~~贪婪~~</li><li>~~计较小气小心眼~~</li></ul>  |
+
+
+看啊，看着世上的人们。老人躺在病床
+
+我发现我一直都在钻脚尖。
+孤单一人的时候，抱怨没人关心陪伴；
+家人朋友饭后问候，却在抱怨他/她关心的不是时候；
+等一群人都关注围绕我的时候，又在抱怨没有清静的空间...
+
+在生活的方方面面，我都是挑剔的。
+没东西吃的时候，饿的如狼似虎；
+物质充分，又怕胖
+
+生活对我来说，像个大麻烦。我从来都没学着stay easy with my life, 学着enjoy myself, in my own way.
+
+Accept it, enoy it, understand
+
+
+更多理解
