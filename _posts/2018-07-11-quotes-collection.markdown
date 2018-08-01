@@ -10,9 +10,23 @@ permalink: quotes-collection
 jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.github.com/images/icons/emoji/unicode/1f4da.png" height="20" width="20" align="absmiddle">'
 ---
 
-<blockquote class="blockquote-center"><p>Different,but not less.</p>
+
+  <blockquote class="blockquote text-center">
+    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+<footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+  </blockquote>
+
+
+
+<blockquote class="blockquote-center">
+<p text-align: center>Different,but not less.</p>
 </blockquote>
 
+
+<blockquote class="blockquote blockquote-center">
+  <p class="m-b-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+  <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+</blockquote>
 
 
 > 从大处着眼，小处落手。
