@@ -20,12 +20,6 @@ Sigmund freud
 => 心得：人还是要多多说话，多多交流才好啊。</p>
 
 
-<p>If you want to mark something as code, indent it by 4 spaces.</p>
-
-    &lt;p&gt;This has been indented 4 spaces.&lt;/p&gt;
-
-
-
 我和我的小伙伴们都笑了。:smile:
 
 <!-- <div align="center"><img width="65" height="75" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/></div>
