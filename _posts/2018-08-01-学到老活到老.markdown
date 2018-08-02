@@ -48,7 +48,7 @@ jemoji: '<img class="emoji" title=":memo:" alt=":memo:" src="https://assets.gith
 的确，我变得不那么自信。在与别人接触时，我不是万般纠结不适，便是满不在乎，若无他人。我不直视他人的眼睛，说不清是不想，还是不敢。唯一直视的时候，是恨，或是，像那粗鲁的原始野兽，吓唬。
 
 
-<div class="pull-left"><img width=cm dpi:150 src="http://www.scisan.com/wp-content/uploads/2017/07/vmall.jpg"></div>
+<div class="pull-left"><img src="http://www.scisan.com/wp-content/uploads/2017/07/vmall.jpg"></div>
 最近华为商城请了胡歌代言，销量也是直线上升啊
 
 
