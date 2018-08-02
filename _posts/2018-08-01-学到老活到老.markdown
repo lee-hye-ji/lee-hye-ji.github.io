@@ -20,18 +20,28 @@ jemoji: '<img class="emoji" title=":memo:" alt=":memo:" src="https://assets.gith
 => 心得：人还是要多多说话，多多交流才好啊。</p> -->
 
 
-我和我的小伙伴们都笑了。:smile:
-
 <!-- <div align="center"><img width="65" height="75" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/></div>
 
  -->
 
-
-
-
-
+<p>
 <img src="https://mmistakes.github.io/minimal-mistakes/assets/images/image-alignment-150x150.jpg" alt="image-left" class="align-left">
  The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong>.
+</p>
+
+
+ <p align="center">
+   <b>Some Links:</b><br>
+   <a href="#">Link 1</a> |
+   <a href="#">Link 2</a> |
+   <a href="#">Link 3</a>
+   <br><br>
+   <img src="http://s.4cdn.org/image/title/105.gif">
+ </p>
+
+
+
+<p><img src="https://mmistakes.github.io/minimal-mistakes/assets/images/image-alignment-150x150.jpg" alt="image-left" class="align-left"> The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong>.</p>
 
 
 
@@ -40,6 +50,19 @@ jemoji: '<img class="emoji" title=":memo:" alt=":memo:" src="https://assets.gith
 
 <div class="pull-left"><img width=cm dpi:150 src="http://www.scisan.com/wp-content/uploads/2017/07/vmall.jpg"></div>
 最近华为商城请了胡歌代言，销量也是直线上升啊
+
+
+# Title
+
+<img align="left" src="http://www.scisan.com/wp-content/uploads/2017/07/vmall.jpg" alt="Made with Angular" title="Angular" hspace="20"/>
+<img align="left" src="http://www.scisan.com/wp-content/uploads/2017/07/vmall.jpg" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
+<img align="left" src="http://www.scisan.com/wp-content/uploads/2017/07/vmall.jpg" alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
+<br/><br/><br/><br/><br/>
+
+## Table of Contents...
+
+
+
 
 # TED talk
 [Brian Little](https://www.youtube.com/watch?v=qYvXk_bqlBk)
