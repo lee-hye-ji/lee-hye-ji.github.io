@@ -12,12 +12,12 @@ jemoji: '<img class="emoji" title=":memo:" alt=":memo:" src="https://assets.gith
 ---
 
 # Psychology
-Sigmund freud
+<!-- Sigmund freud
 <p align="center"><img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTIwNjA4NjMzODE2OTA5MzI0/sigmund-freud-9302400-1-402.jpg" height="200" width="200" align="left"/></p>
 
 <p >晚年因cigar而死的伟大心理学家。
 &nbsp;&nbsp;&nbsp;&nbsp; 提出“free associate”
-=> 心得：人还是要多多说话，多多交流才好啊。</p>
+=> 心得：人还是要多多说话，多多交流才好啊。</p> -->
 
 
 我和我的小伙伴们都笑了。:smile:
