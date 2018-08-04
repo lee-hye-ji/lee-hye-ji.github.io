@@ -24,8 +24,8 @@ jemoji: '<img class="emoji" title=":memo:" alt=":memo:" src="https://assets.gith
 
  -->
 
-<p>
-<img src="https://mmistakes.github.io/minimal-mistakes/assets/images/image-alignment-150x150.jpg" alt="image-left" class="align-left">
+<p align="absmiddle">
+<img src="https://mmistakes.github.io/minimal-mistakes/assets/images/image-alignment-150x150.jpg" alt="image-left" class="align-left" align="absmiddle">
  The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong>.
 </p>
 
@@ -209,10 +209,16 @@ Accept it, enoy it, understand
 对于母亲，我同情她，关心她，有时却会抱怨她的无能为力。然而显然，母亲已在自己能力范围内，做出了自己最大的努力。
 
 
-## 04-08-2018 08:58
+### 04-08-2018 08:58
 
 我不知道，我不快乐。当我怀揣可爱之心，总被现实之剑打回。
 
 快乐要自己创造。
 
 昨天去看动完手术后一天的外公。**外婆说人要欢欢喜喜。**
+
+在这个家里，我不幸福。如被监禁。牙龈肿痛，万事不吉。
+
+<div style="text-align: left">
+<img src="http://7xkfbb.com1.z0.glb.clouddn.com/15-7-16/95341796.jpg" align="absmiddle">
+</div>
