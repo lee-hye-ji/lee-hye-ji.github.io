@@ -1,13 +1,13 @@
 ---
 title: "天天天天"
 layout: post
-tag: courses
+tag: life,日记,personal,
 date: "2018-08-05 10:11"
 img: indigo/indigo.png
 projects: true
 author: artiannaswamy
-summary: "终生学习"
-permalink: 学到老活到老
+summary: "我的日记"
+permalink: 天天天天
 jemoji: '<img  src="https://image.flaticon.com/icons/svg/321/321275.svg" height="20" width="20" align="absmiddle">'
 ---
 

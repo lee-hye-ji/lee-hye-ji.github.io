@@ -1,29 +1,19 @@
 ---
-title: "天天天天"
+title: "Me"
 layout: post
-tag: courses
-date: "2018-08-05 10:11"
+tag: personal
+date: "2018-08-05 10:23"
 img: indigo/indigo.png
 projects: true
 author: artiannaswamy
 summary: "终生学习"
 permalink: 学到老活到老
-jemoji: '<img  src="https://image.flaticon.com/icons/svg/321/321275.svg" height="20" width="20" align="absmiddle">'
+jemoji: '<img  src="https://image.flaticon.com/icons/svg/164/164845.svg" height="20" width="20" align="absmiddle">'
 ---
 
-## 2018-07-21 15:28
 
-应小蔚姐约，准备一家人去厦门东山岛散心。
+## bucket list
 
-<div class="breaker"></div>
-
-既来之则安之。
-
-小蔚姐姐穿粉色很可爱。
-
-妈妈与我估计生错了时间。若我俩同龄，估计会是很好的知己，彼此鼓励，互相理解。妈妈真诚、安静、努力。相信无论在生活上或是学术上都会是我的良师益友。
-然而，真是辛苦母亲了。上帝特意安排她做了我的母亲。
-
-听小薇姐弹琴，不由得鼻子酸酸的。
-
-有生之年，我想要做的事还有很多啊。弹琴，画画，写字，旅游，跳舞，烹饪，衣服设计，珠宝设计。
+- [ ] 寻找萤火虫
+- [ ] 法语
+- [ ] 珠宝设计
