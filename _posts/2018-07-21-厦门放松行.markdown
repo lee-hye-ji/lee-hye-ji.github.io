@@ -79,7 +79,7 @@ permalink: 厦门放松行
     <a href="#">Link 2</a> |
     <a href="#">Link 3</a>
     <br><br> -->
-    <img src="https://cdn.thestandnews.com/media/photos/cache/13355631_1547723142189309_1700550753_n_qTa4N_1200x0.jpg" height=300 >
+    <img src="https://cdn.thestandnews.com/media/photos/cache/13355631_1547723142189309_1700550753_n_qTa4N_1200x0.jpg" height="300" >
   </p>
 
 
