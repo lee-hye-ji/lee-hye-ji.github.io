@@ -49,21 +49,12 @@ permalink: 厦门放松行
 
 ## 生活习惯
 
-每天按耳穴
-  <img src="https://cdn.thestandnews.com/media/photos/cache/13355631_1547723142189309_1700550753_n_qTa4N_1200x0.jpg"> 
-<p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="https://cdn.thestandnews.com/media/photos/cache/13355631_1547723142189309_1700550753_n_qTa4N_1200x0.jpg">
-</p>
 
 
 
 ### 經期頭痛
-
+病理生理学
+经期偏头痛与月经刚开始之前雌激素的自然下降有关联。经期偏头痛还涉及与严重疼痛期相关的前列腺素释放。也和低體溫期的初期重疊；體溫降低容易引起肌肉收縮，所以會造成頭痛
 ### 饮食
 
 如果你患有經期頭痛，有4類食物經期應該避免食用：
@@ -75,3 +66,24 @@ permalink: 厦门放松行
 - <mark>水果</mark>：包括柑橘類、蘋果、香蕉。
 
 - 飲料：某些飲料及其添加物也可能引起經期偏頭痛。含酒精的飲料如各種高濃度白酒及紅葡萄酒;含咖啡因的飲料如咖啡、可樂和**濃茶**;酒精和咖啡因，會使人的血管擴張，容易引起經期偏頭痛。
+
+
+**舒缓方法**
+1. 每天泡澡可以提高基礎體溫，避免頭痛誘發肌緊繃。
+1. 按摩舒緩泡熱水澡, 加自己喜欢的精油
+1. 穴位按摩，頭痛掰掰
+每天按耳穴
+  <p align="center">
+    <!-- <b>Some Links:</b><br>
+    <a href="#">Link 1</a> |
+    <a href="#">Link 2</a> |
+    <a href="#">Link 3</a>
+    <br><br> -->
+    <img src="https://cdn.thestandnews.com/media/photos/cache/13355631_1547723142189309_1700550753_n_qTa4N_1200x0.jpg" height=300 >
+  </p>
+
+
+
+<p align="center">
+  <img src="  http://ibw.bwnet.com.tw/image/pool/2014/04/602dda87fafbd12a836d006e44263273.jpg">
+  </p>
