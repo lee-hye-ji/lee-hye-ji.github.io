@@ -10,6 +10,54 @@ permalink: quotes-collection
 jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.github.com/images/icons/emoji/unicode/1f4da.png" height="20" width="20" align="absmiddle">'
 ---
 
+# To read list
+- To whom the bell tolls,
+
+
+<blockquote>
+
+<p class="quotation">
+No man is an island,
+
+Entire of itself,
+
+Every man is a piece of the continent,
+
+A part of the main.
+
+If a clod be washed away by the sea,
+Europe is the less.
+
+As well as if a promontory were. 
+As well as if a manor of thy friend's
+Or of thine own were:
+Any man's death diminishes me,
+Because I am involved in mankind,
+And therefore never send to know for whom the bell tolls;
+It tolls for thee.</p>
+<footer>—  _No Man Is An Island_
+by John Donne</footer>
+</blockquote>
+(used as the epigraph in "For Whom the Bell Tolls" by Ernest Hemingway)
+
+
+
+
+
+
+## 05-08-2018 15:39
+
+早就听说巴赫大名，但见其真容，还是震惊七八分的。
+
+试听数分钟后：好吧，我还是没有到达能够欣赏古典音乐流派的水准。
+
+
+
+
+于谦 《玩儿》
+<img src=" https://images-na.ssl-images-amazon.com/images/I/414Q6fetknL.jpg" />
+手起，拉伸，棍倒
+
 
 <blockquote>
 
@@ -165,6 +213,12 @@ See full article [here](https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2
 
 <h3>14. <a href="http://a.co/4yzUiTT" target="_blank">The Gene: An Intimate History</a> by Siddhartha Mukherjee (2016)</h3>
 *Category: Medicine > Basic Sciences > Genetics*
+
+
+
+
+
+
 
 Bill Gates's review of [The Gene: An Intimate History](https://www.gatesnotes.com/Books/The-Gene)
 <p align="center"><a href="http://a.co/4yzUiTT" target="_blank"><img src="https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/assets/images/posts/reading-list/gene-intimate-history.jpg" /></a></p>
