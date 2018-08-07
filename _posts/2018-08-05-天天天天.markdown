@@ -1,17 +1,18 @@
 ---
 title: "天天天天"
 layout: post
-tag: life,日记,personal,
+tag: life，
 date: "2018-08-05 10:11"
 img: indigo/indigo.png
 projects: true
-draft: false
 author: artiannaswamy
 summary: "我的日记"
 permalink: 天天天天
 jemoji: '<img  src="https://image.flaticon.com/icons/svg/321/321275.svg" height="20" width="20" align="absmiddle">'
 ---
-##
+
+
+
 ## 07-08-2018 13:39
 Oh, 这样的日子也不错。
 
