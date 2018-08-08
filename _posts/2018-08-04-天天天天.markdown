@@ -2,7 +2,7 @@
 title: "天天天天"
 layout: post
 tag: life
-date: "2018-08-05 10:11"
+date: "2018-08-04 10:11"
 img: indigo/indigo.png
 projects: true
 author: artiannaswamy
