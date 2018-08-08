@@ -3,8 +3,8 @@ title: "2018 Reading List"
 layout: post
 tag: books
 img: indigo/indigo.png
-projects: true	
-draft: false
+projects: true
+draft: True
 author: artiannaswamy
 summary: "List of books I'm reading in 2018"
 permalink: reading-list-2018

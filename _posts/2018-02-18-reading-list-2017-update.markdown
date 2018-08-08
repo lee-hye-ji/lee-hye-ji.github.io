@@ -2,6 +2,7 @@
 title: "2017 Reading List Recap/Update"
 layout: post
 tag: books
+draft: true
 img: indigo/indigo.png
 projects: true
 author: artiannaswamy
