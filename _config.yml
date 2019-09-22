@@ -1,5 +1,5 @@
 # main text of home
-name: Yunxiu ZHOU
+name: Haechi
 bio: 'Laugh, eat and travel'
 
 # twitter summary info
@@ -8,7 +8,7 @@ description: About me, my thoughts and my life
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: 'assets/images/profile2.jpg'
+picture: 'https://user-images.githubusercontent.com/55642211/65381457-a2bb6380-dd2c-11e9-9343-bcd46fa0fcb5.png'
 
 url: https://2myemyy.github.io
 # your url: http://USERNAME.github.io
@@ -27,24 +27,23 @@ disqus: artiannaswamy
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: YunxiuZ
+# twitter: YunxiuZ
 # google: mygoogle
 # instagram: myinstagram
-pinterest: zhouyx1122
-linkedin: yunxiuzhou
+# pinterest: zhouyx1122
+# linkedin: yunxiuzhou
 # youtube: myyoutube
 # spotify: myspotify
-github: yyyxxxzzz
+# github: yyyxxxzzz
 # medium: medium
-email: Zhouyx1122@gmail.com
+# email: Zhouyx1122@gmail.com
 
 authors:
     artiannaswamy:
-        name: ZHOU Yunxiu
-        bio: Not so smart a girl
+        name: Haechi
+        bio: 문어지지마요!
         external-image: false
-        picture: assets/images/profile2.jpg
-        twitter: YunxiuZ
+        picture: https://user-images.githubusercontent.com/55642211/65381457-a2bb6380-dd2c-11e9-9343-bcd46fa0fcb5.png
 
 
 # do you want a larger site? change the option below
@@ -102,6 +101,6 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: https://yyyxxxzzz.github.io
+    base_url: https://2myemyy.github.io
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
