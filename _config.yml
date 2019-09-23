@@ -8,7 +8,7 @@ description: About me, my thoughts and my life
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: https://user-images.githubusercontent.com/55642211/65381457-a2bb6380-dd2c-11e9-9343-bcd46fa0fcb5.png
+picture: assets/images/profile.jpg
 
 url: https://lee-hye-ji.github.io
 # your url: http://USERNAME.github.io
@@ -43,7 +43,7 @@ authors:
         name: Hyeji
         bio: 문어지지마요!
         external-image: false
-        picture: https://user-images.githubusercontent.com/55642211/65381457-a2bb6380-dd2c-11e9-9343-bcd46fa0fcb5.png
+        picture: 'assets/images/profile.jpg'
 
 
 # do you want a larger site? change the option below
