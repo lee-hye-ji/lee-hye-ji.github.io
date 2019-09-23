@@ -1,5 +1,5 @@
 # main text of home
-name: Haechi
+name: Heyji World
 bio: '문어지지마요!'
 
 # twitter summary info
@@ -40,7 +40,7 @@ disqus: artiannaswamy
 
 authors:
     artiannaswamy:
-        name: Haechi
+        name: Hyeji
         bio: 문어지지마요!
         external-image: false
         picture: https://user-images.githubusercontent.com/55642211/65381457-a2bb6380-dd2c-11e9-9343-bcd46fa0fcb5.png
@@ -101,6 +101,6 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: https://2myemyy.github.io
+    base_url: https://lee-hye-ji.github.io
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
