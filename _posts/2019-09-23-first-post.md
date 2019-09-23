@@ -8,5 +8,4 @@ author: lee-hye-ji
 summary: "First post"
 ---
 
-first first post
-
+first post! :)
