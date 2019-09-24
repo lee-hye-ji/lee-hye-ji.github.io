@@ -7,12 +7,23 @@ blog: true
 description: "for hyeji :)"
 ---
 
-### Github 로그인을 한다
+
+### 1. Github 로그인을 한다
 
 로그인을 하고 나면 다음과 같은 창이 뜰 것이다.
 
 ![blog](https://user-images.githubusercontent.com/55655726/65507329-aa376400-df08-11e9-98e3-67f2e6f6fe3d.png)
 
+
+맨 왼쪽에 보이는 lee-hye-ji/hello-world와 lee-hye-ji/lee-hye-ji.github.io는 유저의 저장소(repository)이고,
+
+이 블로그의 저장소는 lee-hye-ji/lee-hye-ji.github.io이다.
+
+
+lee-hye-ji/hello-world 저장소의 왼쪽에 잠금 표시가 되어있다. 이 뜻은 본인만 열람할 수 있는 저장소를 뜻한다.
+lee-hye-ji/lee-hye-ji.github.io 저장소는 public이다:) 
+
+<small>따라서 남들도 다 볼 수 있다...</small>
 
 
 
