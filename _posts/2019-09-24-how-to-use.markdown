@@ -40,12 +40,15 @@ lee-hye-ji/lee-hye-ji.github.io 저장소는 public이다:)
 
 
 
+
+
+
 ### Markdown이 뭐죠??? 
 
 
 마크다운 사용법은 이렇다.
 
-< https://gist.github.com/ihoneymon/652be052a0727ad59601 >
+<https://gist.github.com/ihoneymon/652be052a0727ad59601>
 
 여기 다 있다..ㅎ
 
@@ -63,6 +66,56 @@ lee-hye-ji/lee-hye-ji.github.io 저장소는 public이다:)
 그리고 마크다운은 엔터 두번 쳐야 개행이 된다.
 ###### 사실 이건 좀 별로인 것 같기도 하다
 
+게다가 마크다운 녀석은 엔터나 스페이스 하나에도 예민하게 반응한다.. 마크다운 문법이 제대로 먹지 않는다면 스페이스가 잘못 들어가진 않았는지 다시 한번 확인해보자!
+
+
+
+### 게시글을 업로드해봅시다
+
+![1](https://user-images.githubusercontent.com/55655726/65507335-adcaeb00-df08-11e9-97b5-441a39bdb487.png)
+
+
+이 블로그에는 blog, project, about 이렇게 세가지의 카테고리가 있다.
+
+
+![8](https://user-images.githubusercontent.com/55655726/65509889-89720d00-df0e-11e9-95ef-eafe40abe445.png)
+
+
+먼저, about은 한 페이지로 이루어져 있다.
+
+
+![7](https://user-images.githubusercontent.com/55655726/65509812-5cbdf580-df0e-11e9-8ff8-60ac7efe81af.png)
+
+
+about에 글을 쓰려면 lee-hye-ji/lee-hye-ji.github.io 레파지토리로 돌아와, about.md 라는 파일을 찾는다.
+
+그리고 클릭한다.
+
+![9](https://user-images.githubusercontent.com/55655726/65509993-c1795000-df0e-11e9-9740-a4009b69d3ec.png)
+
+그리고 수정버튼을 누른다.
+
+![10](https://user-images.githubusercontent.com/55655726/65510053-e372d280-df0e-11e9-84e2-f55004810aa7.png)
+
+여기에 쓰고 싶은 내용을 써준다!
+그냥 plain text로 써도 되지만, 마크다운을 좀 활용한다면 아주 멋진 자기소개서가 될 수 있을 것이다!
+
+
+
+
+![11](https://user-images.githubusercontent.com/55655726/65510108-0604eb80-df0f-11e9-8199-3b3ca9dfee29.png)
+
+그리고 맨 밑으로 내려보면, 이런 것이 있다.
+
+
+ 'Commit directly to the master branch.' 라는 문구를 확인해야한다.
+ 여기서 중요한 것은 MASTER branch이다. master branch여야 게시글이 제대로 배포될 것 이다. (아마..?)
+ 
+ ###### branch 개념은 중요하지만, 블로그 포스팅만이 목적이라면 아주아주 나중에 알아도된다!
+
+
+그리고는 commit changes을 날려주자. 드디어 첫 커밋이다!! >_< 
+
 
 
 
@@ -79,4 +132,38 @@ lee-hye-ji/lee-hye-ji.github.io 저장소는 public이다:)
 
 
 먼저, 아까보았던 lee-hye-ji/hello-world 저장소로 들어간다.
+
+
+![3](https://user-images.githubusercontent.com/55655726/65509256-03a19200-df0d-11e9-8cb0-fde9741a5157.png)
+
+
+이런 화면이 나오는데, 노란색으로 표시된 issue로 들어가자
+
+
+![4](https://user-images.githubusercontent.com/55655726/65509338-351a5d80-df0d-11e9-9b9b-0c7cbad6405b.png)
+
+
+그리고, new issue 를 클릭한다.
+
+
+![5](https://user-images.githubusercontent.com/55655726/65509419-68f58300-df0d-11e9-9361-277988b84fda.png)
+
+
+title은 아무거나 내가 지어주고, leave a comment 라고 적혀진 곳에 내가 업로드하고자하는 사진을 끌어다준다.
+
+말그대로 파일을 마우스로 드래그(?)해준다. 끌어다준다. 
+
+![6](https://user-images.githubusercontent.com/55655726/65509608-d0133780-df0d-11e9-9d53-0e258469ccbb.png)
+
+고러면 이렇게 아까 본 형식으로 나온다.
+
+이걸 그대로 복사하고, 밑에 submit 버튼을 눌러준다.
+
+
+그리고 복사한 걸 그대로 게시글에 붙여넣으면 사진이 업로드된다ㅎㅎ
+
+
+
+
+
 
