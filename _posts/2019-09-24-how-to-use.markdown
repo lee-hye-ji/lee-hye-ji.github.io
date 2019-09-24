@@ -117,7 +117,7 @@ about에 글을 쓰려면 lee-hye-ji/lee-hye-ji.github.io 레파지토리로 돌
  'Commit directly to the master branch.' 라는 문구를 확인해야한다.
  여기서 중요한 것은 MASTER branch이다. master branch여야 게시글이 제대로 배포될 것 이다. (아마..?)
  
- ###### branch 개념은 중요하지만, 블로그 포스팅만이 목적이라면 아주아주 나중에 알아도된다!
+ ##### branch 개념은 중요하지만, 블로그 포스팅만이 목적이라면 아주아주 나중에 알아도된다!
 
 
 그리고는 commit changes을 날려주자. 드디어 첫 커밋이다!! >_< 
