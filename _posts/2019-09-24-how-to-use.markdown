@@ -70,18 +70,14 @@ lee-hye-ji/lee-hye-ji.github.io 저장소는 public이다:)
 
 
 
+
 ### 게시글을 업로드해봅시다
 
 ![1](https://user-images.githubusercontent.com/55655726/65507335-adcaeb00-df08-11e9-97b5-441a39bdb487.png)
 
-
 이 블로그에는 blog, project, about 이렇게 세가지의 카테고리가 있다.
 
-
-![8](https://user-images.githubusercontent.com/55655726/65509889-89720d00-df0e-11e9-95ef-eafe40abe445.png)
-
-
-먼저, about은 한 페이지로 이루어져 있다.
+먼저, about 페이지를 알아보자. blog와 project에 highlight가 되어있지만, about 페이지부터 알아볼 것이다. 왜냐면 젤 간단하게 한페이지로 이루어져있거든.
 
 
 ![7](https://user-images.githubusercontent.com/55655726/65509812-5cbdf580-df0e-11e9-8ff8-60ac7efe81af.png)
@@ -99,6 +95,15 @@ about에 글을 쓰려면 lee-hye-ji/lee-hye-ji.github.io 레파지토리로 돌
 
 여기에 쓰고 싶은 내용을 써준다!
 그냥 plain text로 써도 되지만, 마크다운을 좀 활용한다면 아주 멋진 자기소개서가 될 수 있을 것이다!
+
+아, 저 맨 위에 써져있는 
+
+---
+title: About
+layout: page
+---
+
+이 표시는 그대로 놔둬야한다! 저것이 바로 about 페이지에 들어갈 게시물이라는 것을 써주는 인식표같은 것이다
 
 
 
@@ -120,7 +125,6 @@ about에 글을 쓰려면 lee-hye-ji/lee-hye-ji.github.io 레파지토리로 돌
 
 
 ### 사진을 업로드합시다
-
 
 마크다운을 이용해서 사진을 올리려면 특별한 형식이 필요하다
 
